@@ -1,12 +1,7 @@
 # Build a Fullstack AI Chatbot with Redis, React, FastAPI and GPT
 
-- Featured on FreeCodeCamp: https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/
-- Article Wiki: https://github.com/stephensanwo/fullstack-ai-chatbot/wiki
-- Follow Full Series: https://blog.stephensanwo.dev/series/build-ai-chatbot
-- Subscribe to new technical tutorials: https://blog.stephensanwo.dev
-
-Created: July 02, 2022
-Author: Stephen Sanwo
+Created: August 02, 2025
+Author: Muazzain
 
 <hr/>
 
@@ -33,7 +28,7 @@ This is an intermediate full stack software development project that requires so
 
 I've carefully divided the project into sections to ensure that you can easily select the phase that is important to you in case you do not wish to code the full application.
 
-You can download the full repository on [My Github here](https://github.com/stephensanwo/fullstack-ai-chatbot).
+You can download the full repository on [My Github here](https://github.com/MuhammadMuazzain/fullstack-ai-chatbot).
 
 ### Application Architecture <a name="application-architecture"></a>
 
@@ -41,7 +36,6 @@ Sketching out a solution architecture gives you a high-level overview of your ap
 
 I have drawn up a simple architecture below using [draw.io](http://draw.io):
 
-![full-stack-chatbot-architecture.svg](https://github.com/stephensanwo/fullstack-ai-chatbot/blob/master/docs/full-stack-chatbot-architecture.drawio.svg)
 
 Let's go over the various parts of the architecture in more detail:
 
@@ -69,7 +63,5 @@ To send messages between the client and server in real-time, we need to open a s
 
 We will be using FastAPI for the chat server, as it provides a fast and modern Python server for our use. [Check out the FastAPI documentation](https://fastapi.tiangolo.com/advanced/websockets/?h=web)) to learn more about WebSockets.
 
-Follow the full series here: https://blog.stephensanwo.dev/series/build-ai-chatbot
-
-Created: July 02, 2022
-Author: Stephen Sanwo
+Created: August 02, 2025
+Author: Muazzain
