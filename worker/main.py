@@ -33,6 +33,7 @@ async def main():
             for stream, messages in response:
                 # Get message from stream, and extract token, message data and message id
                 for message in messages:
+                    # message_id = message[0]
                     message_id = message[0]
                     token = [k.decode('utf-8')
                              for k, v in message[1].items()][0]
