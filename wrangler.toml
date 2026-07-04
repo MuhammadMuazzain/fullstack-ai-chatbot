@@ -1,0 +1,4 @@
+# Cloudflare Pages — build output from client/
+name = "sentinel-console"
+pages_build_output_dir = "client/build"
+compatibility_date = "2024-01-01"
